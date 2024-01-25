@@ -1,0 +1,6 @@
+@host=http://localhost:5073
+
+GET {{host}}/dinner
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxY2MxNmEwNS1hMzMzLTQ5MjQtOWJhYS1lYzM0YzVmZjJlYWQiLCJnaXZlbl9uYW1lIjoiQXVuZyBaYXciLCJmYW1pbHlfbmFtZSI6IlRoYW4iLCJqdGkiOiI1MTRiMDQ0ZC1hYTE5LTRhMDgtODE5My1lZTU5NTJlZGVmNmEiLCJleHAiOjAsImlzcyI6IkFaVERpbm5lciIsImF1ZCI6IkFaVERpbm5lciJ9.qSlC5pWYvKIPQW98CdapdaKemPfPAAbtiD6oQAiqec0
+
